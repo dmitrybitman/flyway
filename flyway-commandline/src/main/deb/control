@@ -1,0 +1,17 @@
+Package: flyway-commandline
+Version: 2.0.3-1
+Section: misc
+Priority: optional
+Maintainer: Dmitry Bitman <dmitry.bitman@gmail.com>
+Homepage: http://flywaydb.org
+Architecture: all
+Depends: default-jre
+Description: Agile Database Migration Framework for Java
+ Flyway is a popular open source database migration framework
+ for Java. It brings structure and confidence to the evolution
+ of your database schema. It is really easy to use, yet powerful
+ and both developer and DBA-friendly. Flyway supports
+ the industry’s most common databases including Oracle, SQL Server,
+ DB2, MySQL, PostgreSQL, HsqlDB, H2 and Derby. Migrations can
+ be written in plain old SQL or Java and can be executed through
+ the API, the Maven plugin, the Ant tasks or the Command-Line tool.
