@@ -114,7 +114,7 @@
                                     <type>file</type>
                                     <mapper>
                                         <type>perm</type>
-                                        <prefix>/usr/share/${project.artifactId}/lib</prefix>
+                                        <prefix>/usr/share/${project.artifactId}/bin</prefix>
                                     </mapper>
                                 </data>
                                 <data>
