@@ -5,7 +5,7 @@ Priority: optional
 Maintainer: Dmitry Bitman <dmitry.bitman@gmail.com>
 Homepage: http://flywaydb.org
 Architecture: all
-Depends: default-jre
+Depends:
 Description: Agile Database Migration Framework for Java
  Flyway is a popular open source database migration framework
  for Java. It brings structure and confidence to the evolution
